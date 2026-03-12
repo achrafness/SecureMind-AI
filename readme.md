@@ -19,3 +19,13 @@ This project uses the CICIDS2017 dataset (Canadian Institute for Cybersecurity) 
 
 
 
+
+## Model Accuracies (exported artifacts)
+
+Calculated on exported datasets in `data_output/` (run on 2026-03-12).
+
+| Model | Accuracy  |
+|---|---|
+| Phishing Email Classifier  | 95.61% | 
+| CICIDS2017 — Decision Tree | 99.83% |
+
